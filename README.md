@@ -23,6 +23,9 @@
     <td>     
         <img height="150em" src="/images/t2.png"/>
     </td>
+        <td>     
+        <img height="150em" src="/images/t3.jpg"/>
+    </td>
      <td>      
         <img height="150em" src="/images/t4.jpg"/>
     </td>
