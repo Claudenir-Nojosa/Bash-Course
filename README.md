@@ -1,3 +1,5 @@
+![Bash](/images/header.jpg)
+
 <p align="center">
 <a href="https://github.com/Claudenir-Nojosa/Bash-Course/stargazers"><img src="https://img.shields.io/github/stars/{Claudenir-Nojosa}/{Bash-Course}.svg" alt="Stars"></a>
 </p>
@@ -16,19 +18,16 @@
 <table>
   <tr>
     <td>   
-        <img height="150em" src="https://www.deviantart.com/illudox/art/Astral-Caretaker-928007356"/>
+        <img height="150em" src="/images/t1.png"/>
     </td>
     <td>     
-        <img height="150em" src="https://www.deviantart.com/bearden-art/art/Astral-Bear-king-938784774"/>
+        <img height="150em" src="/images/t2.png"/>
     </td>
      <td>      
-        <img height="150em" src="https://www.deviantart.com/sangued/art/Something-925872727"/>
+        <img height="150em" src="/images/t4.jpg"/>
     </td>
     <td>      
-        <img height="150em" src="https://www.deviantart.com/elrohirgithain/art/Astral-Projection-Through-Cosmic-Wormhole-Lensing-926575360"/>
-    </td>
-    <td>      
-        <img height="150em" src="https://www.deviantart.com/illudox/art/Astral-Thoughts-928007436"/>
+        <img height="150em" src="/images/t5.jpg"/>
     </td>
   </tr>
 </table>
