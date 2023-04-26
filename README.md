@@ -1,7 +1,7 @@
 ![Bash](/images/header.jpg)
 
 <p align="center">
-[![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Claudenir-Nojosa/Bash-Course/stargazers)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 </p>
 
 # 🌌 Fato: Aprenda Bash da maneira mais fácil possível (até sua Vó aprenderia) 🌌
