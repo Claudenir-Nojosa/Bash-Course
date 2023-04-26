@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![GitHub stars](https://img.shields.io/github/stars/Claudenir-Nojosa/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Claudenir-Nojosa/Bash-Course/stargazers/)
+[![GitHub stars](https://img.shields.io/github/stars/Claudenir-Nojosa/Bash-Course.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Claudenir-Nojosa/Bash-Course/stargazers/)
 
 </div>
 
