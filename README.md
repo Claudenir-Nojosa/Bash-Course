@@ -8,7 +8,7 @@
 
 # 🌌 Fact: Learn Bash the Easiest Way Possible (Even Your Grandma Would Learn) 🌌
 
-## 👣 Passo-a-passo
+## 👣 Step-by-step
 
 <p>
 <strong>	1.</strong> Understand what Bash/Shell is <br>
@@ -46,98 +46,98 @@
 </h2>
 
 <p>
-Bash é um acrônimo para “Bourne Again Shell”, desenvolvido em 1989. É um programa Shell executado em uma interface de linha de comando e tem como principal função controlar sistemas operacionais.
+Bash is an acronym for “Bourne Again Shell”, developed in 1989. It is a shell program that runs on a command line interface and has as its main function to control operating systems.
 
-Mas antes de falar sobre o que é Bash, precisamos falar sobre o Shell, o que nada mais é do que um programa que controla sistemas operacionais, é como se fosse a ponte de comunicação entre o núcleo do Sistema Operacional e o usuário/aplicações.
+But before talking about what Bash is, we need to talk about the Shell, which is nothing more than a program that controls operating systems, it is as if it were the communication bridge between the core of the Operating System and the user/applications.
 
-Esse núcleo do Sistema Operacional se chama Kernel, é ele que gerencia as operações do computador e do hardware.
+This core of the Operating System is called Kernel, it manages the operations of the computer and hardware.
 
-Por fim, Shell funciona de duas maneiras:
+Finally, Shell works in two ways:
 <ul>
-<li>Ou por meio de uma <strong>GUI (Graphical User Interface)</strong> 
+<li> Through a <strong>GUI (Graphical User Interface)</strong> 
 </li>
 <li>
-Ou de uma <strong>CLI (Command Line Interface)</strong>
+Ou through an <strong>CLI (Command Line Interface)</strong>
 </li>
 </ul>
 
-Um exemplo de Shells GUI é, no Windows 10, a possibilidade do usuário controlar o sistema operacional do dispositivo clicando nos botões da barra de tarefas e em menus.
+An example of GUI Shells is, in Windows 10, the possibility for the user to control the device's operating system by clicking on taskbar buttons and menus.
 
-Entretanto, o Bash é um Shells CLI, então para que ele funcione, o usuário precisa escrever comandos.
+However, Bash is a Shells CLI, so for it to work, the user needs to write commands.
 
-🍊 Analogia básica para entender o que é Shell 🍊
+🍊 Basic analogy to understand what Shell is 🍊
 
 <p align="center">
 <img height="250em" src="/images/orange.jpg"/>
 </p>
 
 <p>
-Imagine uma laranja
-Essa laranja tem a parte da casca (Shell), que é a camada que faz a ponte entre a gente (usuário) e a parte de dentro (Kernel).
+Imagine an orange
+This orange has the peel part (Shell), which is the layer that bridges the gap between us (user) and the inside part (Kernel).
 </p>
 
-<h3>Diferenças entre Shell e Kernel</h3>
+<h3>Differences between Shell and Kernel</h3>
 <ul>
 <li>
-Shell: Permite que o usuário se comunique com o kernel <br>
-Kernel: Controla todas as tarefas do sistema
+Shell: Allows the user to communicate with the kernel <br>
+Kernel: Controls all system tasks
 </li>
 <li>
-Shell: É a interface entre o kernel e o usuário <br>
-Kernel: É o núcleo do sistema operacional
+Shell: It is the interface between the kernel and the user. <br>
+Kernel: It is the core of the operating system
 </li>
 <li>
-Shell: Executa comandos em um grupo de arquivos <br>
-Kernel: Executa o gerenciamento de memória
+Shell: Execute commands on a group of files  <br>
+Kernel: Perform memory management
 </li>
 <li>
-Shell: É a camada externa do Sistema Operacional <br>
-Kernel: É a camada interna do Sistema Operacional
+Shell: It is the external layer of the Operating System <br>
+Kernel: It is the internal layer of the Operating System
 </li>
 <li>
-Shell: Interage com o usuário interpretando a linguagem da máquina <br>
-Kernel: Interage diretamente com o hardware
+Shell: Interacts with the user interpreting machine language <br>
+Kernel: Interacts directly with the hardware
 </li>
 
 </p>
 
 ---
 
-<h2> 🔮 Porque é importante saber sobre 🔮 </h2>
+<h2> 🔮 Why is it important to know about 🔮 </h2>
 
 <p>
-Aprender Bash irá te permitir controlar o sistema operacional como um programador deve. Mas não é uma habilidade apenas para programadores, pode ser utilizado por qualquer um que trabalhe com <i>data</i>.
+Learning Bash will allow you to control the operating system like a programmer should. But it's not just a skill for programmers, it can be used by anyone working with <i>data</i>.
 
 <ul>
 <li>
-Bash é popular, e paga bem 💵
-<p> De acordo com "2020’s Stack Overflow’s Developer Survey", Bash/Shell é a sexta linguagem mais utilizada mundialmente, estando na frente de Python e R. Ela também foi associada com salários maiores, de acordo com a pesquisa.
+Bash is popular, and it pays well. 💵
+<p> According to "2020's Stack Overflow's Developer Survey", Bash/Shell is the sixth most used language worldwide, ahead of Python and R. It was also associated with higher salaries, according to the survey.
 </p>
 </li>
 <li>
-Linhas de comando ajudam em processos repetitivos de data 💾
-<p> Parte do trabalho de um cientista de dados é ter a certeza constante que certa informação está disponível, muitas vezes diariamente. A maioria do <i>data</i> é adquirido, processado e disponibilizado na mesma maneira.
-A linha de comando serve muito bem para esse propósito pois os comandos são facilmente automatizados e replicados.
+Command lines help with repetitive data processing 💾
+<p> Part of a data scientist's job is to constantly make sure certain information is available, often on a daily basis. Most <i>data</i> is acquired, processed and made available in the same way.
+The command line serves this purpose very well as the commands are easily automated and replicated.
 </p>
 </li>
 <li>
-Trabalhar com arquivos de texto é mais fácil ⌨
-<p> Arquivos de texto é uma das maneiras mais comuns de armazenar arquivos de <i>data</i>. 
+Working with text files is easier ⌨
+<p>Text files are one of the most common ways to store <i>data</i> files.
 </p>
 </li>
 <li>
-Necessita de menos recursos da máquina 🖥
-<p> Quanto você está trabalhando com um computador de recursos limitados, e simplesmente deseja aumentar a velocidade de processamento, o uso de linhas de comando vai ser sempre melhor do que usar um GUI, pois o GUI irá dedicar mais recursos para renderizar a parte visual gráfica.
-Isso funciona tanto localmente como remotamente. Quando conectado remotamente, GUI's consomem muito mais recursos do que CLI's.
+Uses less machine resources 🖥
+<p> When you are working with a computer with limited resources, and simply want to increase the processing speed, using command lines will always be better than using a GUI, as the GUI will dedicate more resources to render the graphic look.
+This works both locally and remotely. When connected remotely, GUI's consume much more resources than CLI's.
 </p>
 </li>
 <li>
-Você provavelmente consegue digitar mais rápido do que clicar 🖱
-<p> Mesmo se você achar que é mais rápido clicando, há uma boa chance de que pelo menos em algumas tarefas, você vai ser mais eficiente via linha de comando.
+You can probably type faster than you can click 🖱
+<p> Even if you find that you're faster by clicking, there's a good chance that at least some tasks, you'll be more efficient via the command line.
 </p>
 </li>
 <li>
-Você pode se acordar colocando um alarme 🕰
+You can wake yourself up by setting an alarm. 🕰
 <p> 
 
 ```
@@ -149,7 +149,7 @@ sleep 20m && madplay song.mp3
 
 ---
 
-<h2> 🛰 Tipos de Shell 🛰 </h2>
+<h2> 🛰 Shell types 🛰 </h2>
 <div align="center">
 <table>
     <thead>
@@ -206,33 +206,33 @@ sleep 20m && madplay song.mp3
 
 ---
 
-<h2> 🛸 Comandos e atalhos 🛸 </h2>
+<h2> 🛸 Commands and shortcuts 🛸 </h2>
 
 <p>
-Dentro do Bash há vários comandos e atalhos para conseguir agilizar os procedimentos, alguns deles são:
+Within Bash there are several commands and shortcuts to speed up procedures, some of them are:
 
-| Comandos | Resultado |
+| Commands | Actions |
 | -------- | --------- |
-| pwd | Print working directory, mostra o diretório que você está atualmente |
-| cd + nome do diretório | Muda para o diretório |
-| cd ~ | Volta para o diretório raíz |
-| cd .. | Volta um diretório |
-| ls | Lista os arquivos do diretório atual |
-| mkdir + nome da pasta | Make directory, cria uma nova pasta |
-| touch + nome do arquivo | Cria um novo arquivo |
-| node + nome do arquivo | Faz a leitura do arquivo Js |
-| cls | Limpa a tela de comando |
-| start + nome do arquivo | Inicia o arquivo |
-| rm + nome do arquivo | Remove o arquivo |
-| rm * | Remove tudo do diretório |
-| rm -r + nome da pasta | Remove uma pasta do diretório |
-| CTRL + A | Move o cursor para o início da linha |
-| CTRL + E | Move o cursor para o fim da linha |
-| CTRL + L | Limpa o conteúdo da tela (igual ao <i>clear</i>) |
-| TAB | Completa o comando que estamos escrevendo, caso haja possibilidades de completar |
+| pwd | Print working directory, shows which directory you are currently |
+| cd + name of directory | Changes for the respective directory |
+| cd ~ | Go back to the root directory |
+| cd .. | Go back to the parent directory |
+| ls | List files in current directory |
+| mkdir + name of the folder | Make directory, creates a new folder |
+| touch + name of the file | Creates a new file |
+| node + name of the file | Runs the .js archive |
+| cls | Clear the command screen |
+| start + name of the file | Runs the file |
+| rm + name of the file | Removes the file |
+| rm * | Removes the directory |
+| rm -r + name of the folder | Removes a folder in a directory |
+| CTRL + A | Moves the cursor to the start of the row |
+| CTRL + E | Moves the cursor to the end of the row |
+| CTRL + L | Clear the command screen (same as <i>clear</i>) |
+| TAB | Completes the command we are writing, if there are possibilities to complete |
 
 </p>
 
 ---
 
-#####  De todos os Shells disponíveis, o Bash é um dos mais populares, amigáveis e consegue superar em muitos aspectos os Shells anteriores. Estando em conformidade com o padrão POSIX P1003.2/ISO 9945.2 e permite configurar softwares, extrair dados do sistema, manipular arquivos, automatizar processos de compilação de código, monitorar rotinas, entre outras funções. A documentação do Bash está disponível no [site oficial](https://www.gnu.org/software/bash/manual/).
+#####  Of all the shells available, Bash is one of the most popular, user-friendly and manages to surpass previous shells in many ways. Compliant with the POSIX P1003.2/ISO 9945.2 standard, it allows configuring software, extracting system data, manipulating files, automating code compilation processes, monitoring routines, among other functions. Bash documentation is available at [official site](https://www.gnu.org/software/bash/manual/).
