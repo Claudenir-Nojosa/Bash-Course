@@ -6,7 +6,7 @@
 
 </div>
 
-# 🌌 Fact: Learn Bash the Easiest Way Possible (Even Your Grandma Would Learn) 🌌
+# 🌌 Fact: Learn Bash the Easiest Way Possible (Even Your Grandma Could Learn) 🌌
 
 ## 👣 Step-by-step
 
@@ -72,7 +72,7 @@ However, Bash is a Shells CLI, so for it to work, the user needs to write comman
 </p>
 
 <p>
-Imagine an orange<br>
+<div align="center">Imagine an orange </div> <br>
 This orange has the peel part (Shell), which is the layer that bridges the gap between us (user) and the inside (Kernel).
 </p>
 
@@ -235,4 +235,4 @@ Within Bash there are several commands and shortcuts to speed up procedures, som
 
 ---
 
-#####  Of all the shells available, Bash is one of the most popular, user-friendly and manages to surpass previous shells in many ways. Compliant with the POSIX P1003.2/ISO 9945.2 standard, it allows configuring software, extracting system data, manipulating files, automating code compilation processes, monitoring routines, among other functions. Bash documentation is available at the[official site](https://www.gnu.org/software/bash/manual/).
+#####  Of all the shells available, Bash is one of the most popular, user-friendly and manages to surpass previous shells in many ways. Compliant with the POSIX P1003.2/ISO 9945.2 standard, it allows configuring software, extracting system data, manipulating files, automating code compilation processes, monitoring routines, among other functions. Bash documentation is available at the [official site](https://www.gnu.org/software/bash/manual/).
