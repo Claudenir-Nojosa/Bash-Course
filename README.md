@@ -72,7 +72,7 @@ Entretanto, o Bash é um Shells CLI, então para que ele funcione, o usuário pr
 </p>
 
 <p>
-Imagine uma laranja
+<div align="center">Imagine uma laranja</div> <br>
 Essa laranja tem a parte da casca (Shell), que é a camada que faz a ponte entre a gente (usuário) e a parte de dentro (Kernel).
 </p>
 
