@@ -150,6 +150,7 @@ sleep 20m && madplay song.mp3
 ---
 
 <h2> 🛰 Tipos de Shell 🛰 </h2>
+<div align="center">
 <table>
     <thead>
         <tr>
@@ -200,7 +201,7 @@ sleep 20m && madplay song.mp3
         </tr>
     </tbody>
 </table>
-
+</div>
 </p>
 
 ---
