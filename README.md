@@ -57,7 +57,7 @@ Finally, Shell works in two ways:
 <li> Through a <strong>GUI (Graphical User Interface)</strong> 
 </li>
 <li>
-Ou through an <strong>CLI (Command Line Interface)</strong>
+Or through an <strong>CLI (Command Line Interface)</strong>
 </li>
 </ul>
 
@@ -72,8 +72,8 @@ However, Bash is a Shells CLI, so for it to work, the user needs to write comman
 </p>
 
 <p>
-Imagine an orange
-This orange has the peel part (Shell), which is the layer that bridges the gap between us (user) and the inside part (Kernel).
+Imagine an orange<br>
+This orange has the peel part (Shell), which is the layer that bridges the gap between us (user) and the inside (Kernel).
 </p>
 
 <h3>Differences between Shell and Kernel</h3>
@@ -224,7 +224,7 @@ Within Bash there are several commands and shortcuts to speed up procedures, som
 | cls | Clear the command screen |
 | start + name of the file | Runs the file |
 | rm + name of the file | Removes the file |
-| rm * | Removes the directory |
+| rm * | Removes all the files of a directory |
 | rm -r + name of the folder | Removes a folder in a directory |
 | CTRL + A | Moves the cursor to the start of the row |
 | CTRL + E | Moves the cursor to the end of the row |
@@ -235,4 +235,4 @@ Within Bash there are several commands and shortcuts to speed up procedures, som
 
 ---
 
-#####  Of all the shells available, Bash is one of the most popular, user-friendly and manages to surpass previous shells in many ways. Compliant with the POSIX P1003.2/ISO 9945.2 standard, it allows configuring software, extracting system data, manipulating files, automating code compilation processes, monitoring routines, among other functions. Bash documentation is available at [official site](https://www.gnu.org/software/bash/manual/).
+#####  Of all the shells available, Bash is one of the most popular, user-friendly and manages to surpass previous shells in many ways. Compliant with the POSIX P1003.2/ISO 9945.2 standard, it allows configuring software, extracting system data, manipulating files, automating code compilation processes, monitoring routines, among other functions. Bash documentation is available at the[official site](https://www.gnu.org/software/bash/manual/).
