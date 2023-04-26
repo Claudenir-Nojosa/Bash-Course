@@ -150,23 +150,30 @@ sleep 20m && madplay song.mp3
 ---
 
 <h2> 🛰 Tipos de Shell 🛰 </h2>
-
-| Linux |
-| --- |
-| Bourne-Again |
-| Tcsh |
-
-| Windows |
-| ----- |
-| Aston |
-| Window Blinds |
-| Xoblite |
-
-| UNIX |
-| -- |
-| Korn |
-| The C |
-| Bourne-Again |
+<table>
+    <tr>
+        <td>
+        | Linux |
+        | --- |
+        | Bourne-Again |
+        | Tcsh |
+        </td>
+        <td>
+        | Windows |
+        | ----- |
+        | Aston |
+        | Window Blinds |
+        | Xoblite |
+        </td>
+        <td>
+        | UNIX |
+        | -- |
+        | Korn |
+        | The C |
+        | Bourne-Again |
+        </td>
+    </tr>
+</table>
 
 </p>
 
