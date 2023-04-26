@@ -18,27 +18,29 @@
 <table>
   <tr>
     <td>   
-        <img height="100em" src="/images/t1.png"/>
+        <img height="150em" src="/images/t1.png"/>
     </td>
     <td>     
-        <img height="100em" src="/images/t2.png"/>
+        <img height="150em" src="/images/t2.png"/>
     </td>
         <td>     
-        <img height="100em" src="/images/t3.jpg"/>
+        <img height="150em" src="/images/t3.jpg"/>
     </td>
      <td>      
-        <img height="100em" src="/images/t4.jpg"/>
+        <img height="150em" src="/images/t4.jpg"/>
     </td>
     <td>      
-        <img height="100em" src="/images/t5.jpg"/>
+        <img height="150em" src="/images/t5.jpg"/>
     </td>
   </tr>
 </table>
 </p>
 
 ---
-
-<h2> 🎃 O que é Bash/Shell (PARA UMA CRIANÇA ENTENDER) 🎃 <img height="20em" src="/images/children.jpg"/>
+<p align="center">
+<img height="70em" src="/images/children.jpg"/>
+</p>
+<h2> 🎃 O que é Bash/Shell (PARA UMA CRIANÇA ENTENDER) 🎃 
 </h2>
 
 <p>
@@ -63,17 +65,37 @@ Entretanto, o Bash é um Shells CLI, então para que ele funcione, o usuário pr
 
 🍊 Analogia básica para entender o que é Shell 🍊
 
-Imagine uma laranja <img height="20em" src="/images/orange.jpg"/>
+<p align="center">
+<img height="70em" src="/images/orange.jpg"/>
+</p>
+
+<p>
+Imagine uma laranja
 Essa laranja tem a parte da casca (Shell), que é a camada que faz a ponte entre a gente (usuário) e a parte de dentro (Kernel).
+</p>
 
 <h3>Diferenças entre Shell e Kernel</h3>
-| Shell | Kernel |
-| ----- | ------ | 
-| Permite que o usuário se comunique com o kernel | Controla todas as tarefas do sistema |
-| É a interface entre o kernel e o usuário | É o núcleo do sistema operacional |
-| Executa comandos em um grupo de arquivos | Executa o gerenciamento de memória |
-| É a camada externa do Sistema Operacional | É a camada interna do Sistema Operacional |
-| Interage com o usuário interpretando a linguagem da máquina | Interage diretamente com o hardware |  
+<ul>
+<li>
+Shell: Permite que o usuário se comunique com o kernel
+Kernel: Controla todas as tarefas do sistema
+</li>
+<li>
+Shell: É a interface entre o kernel e o usuário
+Kernel: É o núcleo do sistema operacional
+</li>
+<li>
+Shell: Executa comandos em um grupo de arquivos
+Kernel: Executa o gerenciamento de memória
+</li>
+<li>
+Shell: É a camada externa do Sistema Operacional
+Kernel: É a camada interna do Sistema Operacional
+</li>
+<li>
+Shell: Interage com o usuário interpretando a linguagem da máquina
+Kernel: Interage diretamente com o hardware
+</li>
 
 </p>
 
