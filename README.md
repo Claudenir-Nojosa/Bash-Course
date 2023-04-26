@@ -1,7 +1,7 @@
 ![Bash](/images/header.jpg)
 
 <p align="center">
-<a href="https://github.com/Claudenir-Nojosa/Bash-Course/stargazers"><img src="https://img.shields.io/github/stars/{Claudenir-Nojosa}/{Bash-Course}.svg" alt="Stars"></a>
+[![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Claudenir-Nojosa/Bash-Course/stargazers)
 </p>
 
 # 🌌 Fato: Aprenda Bash da maneira mais fácil possível (até sua Vó aprenderia) 🌌
@@ -38,7 +38,7 @@
 
 ---
 <p align="center">
-<img height="70em" src="/images/children.jpg"/>
+<img height="250em" src="/images/children.jpg"/>
 </p>
 <h2> 🎃 O que é Bash/Shell (PARA UMA CRIANÇA ENTENDER) 🎃 
 </h2>
@@ -66,7 +66,7 @@ Entretanto, o Bash é um Shells CLI, então para que ele funcione, o usuário pr
 🍊 Analogia básica para entender o que é Shell 🍊
 
 <p align="center">
-<img height="70em" src="/images/orange.jpg"/>
+<img height="250em" src="/images/orange.jpg"/>
 </p>
 
 <p>
@@ -77,23 +77,23 @@ Essa laranja tem a parte da casca (Shell), que é a camada que faz a ponte entre
 <h3>Diferenças entre Shell e Kernel</h3>
 <ul>
 <li>
-Shell: Permite que o usuário se comunique com o kernel
+Shell: Permite que o usuário se comunique com o kernel <br>
 Kernel: Controla todas as tarefas do sistema
 </li>
 <li>
-Shell: É a interface entre o kernel e o usuário
+Shell: É a interface entre o kernel e o usuário <br>
 Kernel: É o núcleo do sistema operacional
 </li>
 <li>
-Shell: Executa comandos em um grupo de arquivos
+Shell: Executa comandos em um grupo de arquivos <br>
 Kernel: Executa o gerenciamento de memória
 </li>
 <li>
-Shell: É a camada externa do Sistema Operacional
+Shell: É a camada externa do Sistema Operacional <br>
 Kernel: É a camada interna do Sistema Operacional
 </li>
 <li>
-Shell: Interage com o usuário interpretando a linguagem da máquina
+Shell: Interage com o usuário interpretando a linguagem da máquina <br>
 Kernel: Interage diretamente com o hardware
 </li>
 
