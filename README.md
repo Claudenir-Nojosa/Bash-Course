@@ -6,16 +6,16 @@
 
 </div>
 
-# 🌌 Fato: Aprenda Bash da maneira mais fácil possível (até sua Vó aprenderia) 🌌
+# 🌌 Fact: Learn Bash the Easiest Way Possible (Even Your Grandma Would Learn) 🌌
 
 ## 👣 Passo-a-passo
 
 <p>
-<strong>	1.</strong> Entender o que é Bash/Shell <br>
-<strong>	2.</strong> Porque é importante saber sobre <br>
-<strong>	3.</strong> Tipos de Shell <br> 
-<strong>	4.</strong> Quais são os comandos e atalhos <br>
-<strong>	5.</strong> Considerações finais
+<strong>	1.</strong> Understand what Bash/Shell is <br>
+<strong>	2.</strong> Why is it important to learn <br>
+<strong>	3.</strong> Shell types <br> 
+<strong>	4.</strong> Commands and shortcuts <br>
+<strong>	5.</strong> Final considerations
 
 <table>
   <tr>
@@ -42,7 +42,7 @@
 <p align="center">
 <img height="250em" src="/images/children.jpg"/>
 </p>
-<h2> 🎃 O que é Bash/Shell (PARA UMA CRIANÇA ENTENDER) 🎃 
+<h2> 🎃 What is Bash/Shell (EVEN A CHILD CAN UNDERSTAND) 🎃 
 </h2>
 
 <p>
